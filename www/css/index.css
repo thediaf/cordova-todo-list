@@ -1,0 +1,14 @@
+#listTask {
+  list-style: none; 
+}
+
+#listTask li {
+  margin: 10px;
+  padding: 10px;
+  background-color: #eee;
+}
+
+.done a {
+  text-decoration: line-through;
+  color: gray;
+}
